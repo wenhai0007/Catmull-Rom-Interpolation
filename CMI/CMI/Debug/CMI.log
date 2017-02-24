@@ -1,3 +1,5 @@
 ﻿  main.cpp
+g:\vscommunity_wh\0projects\catmull_rom_interpolation\cmi\cmi\main.cpp(46): warning C4101: 'innerX': unreferenced local variable
+g:\vscommunity_wh\0projects\catmull_rom_interpolation\cmi\cmi\main.cpp(46): warning C4101: 'innerY': unreferenced local variable
   CMI.vcxproj -> G:\vsCommunity_wh\0PROJECTS\Catmull_Rom_interpolation\CMI\Debug\CMI.exe
   CMI.vcxproj -> G:\vsCommunity_wh\0PROJECTS\Catmull_Rom_interpolation\CMI\Debug\CMI.pdb (Partial PDB)
